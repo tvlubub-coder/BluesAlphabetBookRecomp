@@ -1,8 +1,3 @@
-==========================================================================
- Blue's Alphabet Book Mod Loader  -  Characters, Scenarios, Minigames
- Tutorial / README (English edition)
-==========================================================================
-
 Native Windows x64 port of "Blue's Clues: Blue's Alphabet Book" (Game Boy Color, USA),
 statically recompiled with GBRecomp, plus a mod loader that applies ROM-data patches.
 
